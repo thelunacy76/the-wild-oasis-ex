@@ -20,6 +20,7 @@ const Stacked = styled.div`
   display: flex;
   flex-direction: column;
   gap: 0.2rem;
+  border: 1px solid red;
 
   & span:first-child {
     font-weight: 500;
